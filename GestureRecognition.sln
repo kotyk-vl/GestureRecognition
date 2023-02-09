@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognition", "GestureRecognition\GestureRecognition.csproj", "{5E259623-6F97-453A-A2E8-71EA88F46141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognition.Tests", "UnitTestProject1.UnitTests\GestureRecognition.Tests.csproj", "{83730609-4672-40DD-BA65-F006817F44E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Debug|x64.ActiveCfg = Debug|x64
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Debug|x64.Build.0 = Debug|x64
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Release|x64.ActiveCfg = Release|x64
+		{5E259623-6F97-453A-A2E8-71EA88F46141}.Release|x64.Build.0 = Release|x64
+		{83730609-4672-40DD-BA65-F006817F44E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Debug|x64.Build.0 = Debug|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Release|x64.ActiveCfg = Release|Any CPU
+		{83730609-4672-40DD-BA65-F006817F44E9}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0722A90-014D-4AAD-BCD1-A949F0D8F2D7}
+	EndGlobalSection
+EndGlobal

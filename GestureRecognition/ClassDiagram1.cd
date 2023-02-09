@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="GestureRecognition.ConsumeModel">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQg=</HashCode>
+      <FileName>ConsumeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.Form_Advanc">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhgAACACABAAAACAAAASIAAAAgAAAAAAAABQACA=</HashCode>
+      <FileName>Form_Advanc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.Form_Recognition">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAEIAACACARAAAACAAAATAAAgAAAAkCAAEQBABAE=</HashCode>
+      <FileName>Form_Recognition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.Form1">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Field Name="btnAnalytics" Hidden="true" />
+      <Field Name="btnDashbord" Hidden="true" />
+      <Field Name="cbBlur" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="numUp1" Hidden="true" />
+      <Field Name="numUp2" Hidden="true" />
+      <Field Name="panel_bottom" Hidden="true" />
+      <Field Name="panel_center" Hidden="true" />
+      <Field Name="panel_left" Hidden="true" />
+      <Field Name="panel_left_up" Hidden="true" />
+      <Field Name="panel_radius" Hidden="true" />
+      <Field Name="panel_right" Hidden="true" />
+      <Field Name="panel_right_center" Hidden="true" />
+      <Field Name="panel_right_up" Hidden="true" />
+      <Field Name="panel_top" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pnlFormLoader" Hidden="true" />
+      <Field Name="pnlNav" Hidden="true" />
+      <Field Name="select_cam" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+      <Field Name="trackBar1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>cACIEgACNCAAgDABwCDEABACDHAAkAAgEjUsGxhiAGA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.LoadModel">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LoadModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.ModelInput">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.ModelOutput">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.Program">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureRecognition.Properties.Resources">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAFAAAACCQAAABEAAAgQSAAAAEACBAgAABAII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GestureRecognition.Data">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
